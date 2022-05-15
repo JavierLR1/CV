@@ -1,0 +1,14 @@
+
+  body {background-color: #CCF3EE;}
+  th {color:#205375;font-family: cursive;text-decoration: underline;}
+  hr {background-color: #CCF3EE;
+    border-style: dotted none none none;
+    border-color: lightgrey;
+    border-width: 5px;
+    width: 5%;}
+  h1 {color: #205375;font-family: cursive;}
+  h3 {color: #205375;font-family: cursive;}
+p {color: #205375;font-family: fantasy;}
+td {color:#205375;font-family: fantasy;}
+label {color:#205375;font-family: fantasy;}
+a {color:#205375;font-family: fantasy;}
